@@ -14,8 +14,8 @@ class JogadorRugby{
 
     mostrarDados(){
         console.log(`Nome: ${this.nome}`);
-        console.log(`Número:${this.nome}`);
-        console.log(`Posiçao:${this.nome}`);
+        console.log(`Número:${this.numero}`);
+        console.log(`Posiçao:${this.posicao}`);
     }
 }
 
